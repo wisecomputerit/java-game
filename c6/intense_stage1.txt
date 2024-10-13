@@ -1,0 +1,55 @@
+
+sleep 50
+MidleEnemy1 118 -64
+
+Enemy1 0 0
+Enemy1 40 0
+Enemy1 80 0
+Enemy1 120 0
+Enemy1 268 0
+Enemy1 228 0
+Enemy1 188 0
+Enemy1 148 0
+
+Enemy2 0 0
+Enemy2 268 0
+Enemy2 228 0
+Enemy2 40 0
+Enemy2 80 0
+Enemy2 188 0
+Enemy2 148 0
+Enemy2 120 0
+
+Enemy3 0 0
+Enemy3 148 0
+Enemy3 188 0
+Enemy3 40 0
+Enemy3 228 0
+Enemy3 80 0
+Enemy3 120 0
+Enemy3 268 0
+
+Enemy4 0 0
+Enemy4 148 0
+Enemy4 188 0
+Enemy4 40 0
+Enemy4 228 0
+Enemy4 80 0
+Enemy4 120 0
+Enemy4 268 0
+
+Enemy5 0 0
+Enemy5 268 0
+Enemy5 40 0
+Enemy5 228 0
+Enemy5 80 0
+Enemy5 188 0
+Enemy5 120 0
+Enemy5 148 0
+
+sleep 50
+BigEnemy1 86 -128
+wait
+
+sleep 50
+

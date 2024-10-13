@@ -1,0 +1,37 @@
+
+sleep 50
+Enemy5 0 0
+Enemy5 268 0
+Enemy5 40 0
+Enemy5 228 0
+Enemy5 80 0
+Enemy5 188 0
+Enemy5 120 0
+Enemy5 148 0
+
+sleep 50
+MidleEnemy3 118 -64
+wait
+
+sleep 50
+Enemy1 0 0
+Enemy1 268 0
+sleep 10
+Enemy2 40 0
+Enemy2 228 0
+sleep 10
+Enemy3 80 0
+Enemy3 188 0
+sleep 10
+Enemy4 120 0
+Enemy4 148 0
+sleep 10
+Enemy5 0 0
+Enemy5 268 0
+
+sleep 50
+BigEnemy3 86 -128
+wait
+
+sleep 50
+
