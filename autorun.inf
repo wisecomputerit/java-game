@@ -1,0 +1,3 @@
+[autorun]
+open=rundll32.exe url,FileProtocolHandler index.html
+icon=kero.ico
